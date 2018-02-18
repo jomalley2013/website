@@ -11,6 +11,16 @@
         "test:integration": "mocha --recursive test/integration"
     },
     "dependencies": {
-        "gulp": "^3.9.1"
+        "bootstrap": "^4.0.0",
+        "connect": "^3.6.6",
+        "express": "^4.16.2",
+        "gulp": "^3.9.1",
+        "gulp-util": "^3.0.8",
+        "jQuery": "^1.7.4",
+        "jquery": "^3.3.1",
+        "popper": "^1.0.1"
+    },
+    "devDependencies": {
+        "gulp-connect": "^5.4.0"
     }
 }
